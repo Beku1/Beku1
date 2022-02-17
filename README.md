@@ -1,4 +1,4 @@
-<div background-color="red">
+<div background="#fff">
 <h1 align="center">Hello 👋, I'm Beny Kursalin</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 
